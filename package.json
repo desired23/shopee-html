@@ -1,0 +1,19 @@
+{
+  "name": "shopee-clone",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desired23/shopee-html.git"
+  },
+  "author": "desired23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desired23/shopee-html/issues"
+  },
+  "homepage": "https://github.com/desired23/shopee-html#readme"
+}
